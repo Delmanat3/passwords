@@ -1,0 +1,22 @@
+{
+  "name": "passwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delmanat3/passwords.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delmanat3/passwords/issues"
+  },
+  "homepage": "https://github.com/Delmanat3/passwords#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
